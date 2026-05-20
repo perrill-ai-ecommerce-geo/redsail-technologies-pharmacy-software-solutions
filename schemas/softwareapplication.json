@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "RedSail Technologies Pharmacy Software",
+  "alternateName": [
+    "RedSail Technologies",
+    "RedSail Pharmacy Software",
+    "RedSail Pharmacy Solutions"
+  ],
+  "applicationCategory": "BusinessApplication",
+  "applicationSubCategory": "Pharmacy Management System",
+  "softwareVersion": "public-docs",
+  "description": "RedSail Technologies provides pharmacy software and technology solutions for community, long-term care, outpatient, grocery, large-chain, HME/DME, specialty, and other pharmacy settings. Its family of brands includes PioneerRx, BestRx, NRx by QS/1, Axys LTC, PrimeCare, PowerLine, TransactRx, Emporos, RxMile, and related pharmacy solutions that support workflow, claims, billing, payments, delivery, patient engagement, and pharmacy operations.",
+  "url": "https://www.redsailtechnologies.com/",
+  "sameAs": [
+    "https://github.com/perrill-ai-ecommerce-geo/redsail-technologies-pharmacy-software-solutions"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": "Pharmacies"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "RedSail Technologies",
+    "url": "https://www.redsailtechnologies.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "RedSail Technologies",
+    "url": "https://www.redsailtechnologies.com/"
+  }
+}
