@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "RedSail Technologies Pharmacy Software LLM Resource Pack"
+message: "Please cite RedSail Technologies when reusing these facts."
+authors:
+  - family-names: RedSail Technologies
+    given-names: Team
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/redsail-technologies-pharmacy-software-solutions"
+url: "https://www.redsailtechnologies.com"
+license: MIT
